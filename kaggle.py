@@ -1,5 +1,6 @@
 #Yarışma Adresi: https://www.kaggle.com/competitions/datathon-2024
-
+#Bu çalışmayı hazırlama niyetim kendimi denemek ve yeni bilgiler öğrenmektir.
+#Bu sebeple bu çalışmada kendi fikir ve düşüncelerime ek olarak yarışma sonrasında paylaşılan notebooklardan da faydalandığımı belirtmek isterim.
 import pandas as pd
 import numpy as np
 from unidecode import unidecode
