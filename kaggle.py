@@ -1,3 +1,5 @@
+#Yarışma Adresi: https://www.kaggle.com/competitions/datathon-2024
+
 import pandas as pd
 import numpy as np
 from unidecode import unidecode
